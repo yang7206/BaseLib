@@ -1,0 +1,11 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.yxy.lib.base">
+
+    <application android:allowBackup="true"
+        tools:overrideLibrary="com.github.sundeepk.compactalendarview"
+        android:supportsRtl="true">
+
+    </application>
+
+</manifest>

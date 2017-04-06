@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="TitleTopBar">
+        <attr name="tb_title" format="string"/>
+        <attr name="tb_backable" format="boolean"/>
+        <attr name="tb_clickable" format="boolean"/>
+        <attr name="tb_leftText" format="string"/>
+        <attr name="tb_rightText" format="string"/>
+        <attr name="tb_rightImg" format="reference|integer"/>
+        <attr name="tb_leftImg" format="reference|integer"/>
+        <attr name="tb_titleArray" format="reference"/>
+    </declare-styleable>
+
+    <declare-styleable name="ToggleView">
+        <attr name="tv_textArr" format="reference"/>
+    </declare-styleable>
+
+</resources>
